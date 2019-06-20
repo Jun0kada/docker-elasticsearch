@@ -1,7 +1,5 @@
 # docker-elasticsearch
 
-[![CircleCI](https://circleci.com/gh/bitjourney/docker-elasticsearch/tree/master.svg?style=svg)](https://circleci.com/gh/bitjourney/docker-elasticsearch/tree/master)
-
 Elasticsearch docker images for development and testing.
 
 <!-- TOC -->
@@ -26,12 +24,12 @@ Elasticsearch docker images for development and testing.
 
 ## Docker Hub
 
-https://hub.docker.com/r/bitjourney/elasticsearch/
+https://hub.docker.com/r/jun0kada/elasticsearch
 
 ## Usage
 
 ```sh
-docker pull bitjourney/elasticsearch
+docker pull jun0kada/elasticsearch
 ```
 
 ## Maintenance
